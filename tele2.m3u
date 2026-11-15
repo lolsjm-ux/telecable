@@ -109,8 +109,8 @@ http://201.216.147.90:8729/play/a0p0
 http://201.216.147.90:8729/play/a0p1
 #EXTINF:-1 group-title="Deportes",ESPN3
 http://201.216.147.90:8729/play/a0p2
-#EXTINF:-1 group-title="Deportes",ESPN6
-http://201.216.147.90:8729/play/a0p3
+#EXTINF:-1 group-title="Deportes",Dsports
+https://streamtp99a.sbs/global1.php?stream=dsports
 #EXTINF:-1 group-title="Deportes",ESPN Premium
 https://list.iptvcat.net/my_list/s/34e7582bf9f324b2a1a60f97451d4319.m3u8
 #EXTINF:-1 group-title="Deportes",Sky la liga
