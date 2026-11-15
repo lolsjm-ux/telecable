@@ -104,9 +104,13 @@ http://201.216.147.90:8729/play/a0m1
 #EXTINF:-1 group-title="Deportes",TUDN
 https://list.iptvcat.net/my_list/s/e7f468ab000a4e30b353491e4872498e.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
-https://list.iptvcat.net/my_list/s/e565960d52b3fbc86966ebd85b38de67.m3u8
+http://201.216.147.90:8729/play/a0p0
 #EXTINF:-1 group-title="Deportes",ESPN2
-https://list.iptvcat.net/my_list/s/bc692ea6d0098ac4a3b3dc30218ff06f.m3u8
+http://201.216.147.90:8729/play/a0p1
+#EXTINF:-1 group-title="Deportes",ESPN3
+http://201.216.147.90:8729/play/a0p2
+#EXTINF:-1 group-title="Deportes",ESPN6
+http://201.216.147.90:8729/play/a0p3
 #EXTINF:-1 group-title="Deportes",ESPN Premium
 https://list.iptvcat.net/my_list/s/34e7582bf9f324b2a1a60f97451d4319.m3u8
 #EXTINF:-1 group-title="Deportes",Sky la liga
