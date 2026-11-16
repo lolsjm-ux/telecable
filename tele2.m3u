@@ -28,11 +28,13 @@ http://201.216.147.90:8729/play/a0cu
 #EXTINF:-1 group-title="Infantil",Disney Jr
 https://list.iptvcat.net/my_list/s/d68b231c478608dc9dc4dade60f5b82e.m3u8
 #EXTINF:-1 group-title="Infantil",Disney
-http://201.216.147.90:8729/play/a0ob
+http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 group-title="Infantil",Nickelodeon
 https://list.iptvcat.net/my_list/s/105af7a0b339d03a548afa56d3ede596.m3u8
 #EXTINF:-1 group-title="Infantil",Cartoon Network
 https://list.iptvcat.net/my_list/s/9f8b40525ea965c6b65a7a6cade40c20.m3u8
+#EXTINF:-1 group-title="Infantil",Clan
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 group-title="Infantil",Nick Jr
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 group-title="Infantil",Tooncast
@@ -44,11 +46,13 @@ http://167.249.23.102:8000/play/a0g8/index.m3u8
 #EXTINF:-1 group-title="General",Telemundo
 https://list.iptvcat.net/my_list/s/51e8c0220e912b34435268829a743f71.m3u8
 #EXTINF:-1 group-title="General",Azteca Internacional
-http://201.216.147.90:8729/play/a0mg
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 group-title="General",Univisión
 https://list.iptvcat.net/my_list/s/ce151a8e1037b12c459767849c88ad2e.m3u8
 #EXTINF:-1 group-title="Novelas",RCN Novelas
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:-1 group-title="Novelas",Kanal D
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="Documentales",Home & Healt
 http://201.216.147.90:8729/play/a0ck
 #EXTINF:-1 group-title="Películas",Warner
@@ -57,6 +61,8 @@ http://201.216.147.90:8729/play/a0e6
 http://201.216.147.90:8729/play/a0e7
 #EXTINF:-1 group-title="Documentales",E!
 http://201.216.147.90:8729/play/a0mj
+#EXTINF:-1 group-title="Novelas",BBC series
+https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Películas",TNT series
 http://201.216.147.90:8729/play/a0la
 #EXTINF:-1 group-title="Películas",Star channel
@@ -70,15 +76,15 @@ http://201.216.147.90:8729/play/a0ow
 #EXTINF:-1 group-title="Novelas",TNT novelas
 http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="General",Distrito Comedia
-https://list.iptvcat.net/my_list/s/53d536a070774dd5fb91d0ef73567fec.m3u8
+http://190.60.48.150:8000/play/distrito-comedia/index.m3u8
 #EXTINF:-1 group-title="Películas",Multicinema
 http://201.216.147.90:8729/play/a0dh
 #EXTINF:-1 group-title="Películas",Multipremier
 http://201.216.147.90:8729/play/a0on
 #EXTINF:-1 group-title="Películas",Cinemax
-https://list.iptvcat.net/my_list/s/c6ed836fb5c84f683790e16e964b1ac5.m3u8
+http://181.78.197.59:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Películas",De pelicula
-https://list.iptvcat.net/my_list/s/8cee24481f6f933368008e59ec3065a8.m3u8
+http://181.119.177.253:8000/play/a0dr/index.m3u8
 #EXTINF:-1 group-title="Películas",Golden
 http://201.216.147.90:8729/play/a0df
 #EXTINF:-1 group-title="Películas",Universal
@@ -95,6 +101,8 @@ http://201.216.147.90:8729/play/a0dg
 https://list.iptvcat.net/my_list/s/d4c88b923133301e6239b1350aac8960.m3u8
 #EXTINF:-1 group-title="Películas",Cinelatino
 http://201.216.147.90:8729/play/a0oo
+#EXTINF:-1 group-title="Películas",ent comedy
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="Películas",Universal Comedy
 http://201.216.147.90:8729/play/a0ct
 #EXTINF:-1 group-title="Películas",Claro sports 1
@@ -102,13 +110,13 @@ http://201.216.147.90:8729/play/a0oh
 #EXTINF:-1 group-title="Deportes",Claro Sports
 http://201.216.147.90:8729/play/a0m1
 #EXTINF:-1 group-title="Deportes",TUDN
-https://list.iptvcat.net/my_list/s/e7f468ab000a4e30b353491e4872498e.m3u8
+http://181.119.177.253:8000/play/a0ds/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
 https://list.iptvcat.net/my_list/s/e565960d52b3fbc86966ebd85b38de67.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN2
 https://list.iptvcat.net/my_list/s/bc692ea6d0098ac4a3b3dc30218ff06f.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Premium
-https://list.iptvcat.net/my_list/s/34e7582bf9f324b2a1a60f97451d4319.m3u8
+http://181.119.84.106:8000/play/a0qw/index.m3u8
 #EXTINF:-1 group-title="Deportes",Sky la liga
 http://45.5.118.152:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Deportes",Sky sports 2
@@ -117,6 +125,10 @@ https://list.iptvcat.net/my_list/s/6d87804bb0942a67f541029979cedfab.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 group-title="Deportes",Dazn
 http://neoyjpw.top:8080/live/fernando/fernando/63367.m3u8
+#EXTINF:-1 group-title="Deportes",bein sports
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 group-title="Deportes",TYC
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="Documentales",Animal Planet
 http://201.216.147.90:8729/play/a0mm
 #EXTINF:-1 group-title="Documentales",History
@@ -128,11 +140,13 @@ https://list.iptvcat.net/my_list/s/d73c60e792863362e40535d232b3eaa5.m3u8
 #EXTINF:-1 group-title="Documentales",Discovery
 http://201.216.147.90:8729/play/a0ml
 #EXTINF:-1 group-title="Noticias",RT
-http://201.216.147.90:8729/play/a01y
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Noticias",CNN
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Noticias",France 24
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Noticias",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 group-title="Inter",TVE
 http://201.216.147.90:8729/play/a0ot
 #EXTINF:-1 group-title="Música",Telehit
@@ -141,3 +155,11 @@ https://list.iptvcat.net/my_list/s/8aed2806fb787828a55eae2683402894.m3u8
 https://list.iptvcat.net/my_list/s/ef5a755328be81cbe38e2816bb01405a.m3u8
 #EXTINF:-1 group-title="Nacional",Canal 7 (2)
 http://181.119.177.253:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Nacional",tvs
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1 group-title="Nacional",Canal 3 (2)
+http://181.119.177.253:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Nacional",Canal 3 (3)
+https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 group-title="Nacional",Guatevisión 2
+https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
