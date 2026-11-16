@@ -26,7 +26,7 @@ http://201.216.147.90:8729/play/a0o9
 #EXTINF:-1 group-title="Nacional",Trecevisión
 http://201.216.147.90:8729/play/a0cu
 #EXTINF:-1 group-title="Infantil",Disney Jr
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+https://list.iptvcat.net/my_list/s/d68b231c478608dc9dc4dade60f5b82e.m3u8
 #EXTINF:-1 group-title="Infantil",Disney
 http://201.216.147.90:8729/play/a0ob
 #EXTINF:-1 group-title="Infantil",Nickelodeon
@@ -34,13 +34,13 @@ https://list.iptvcat.net/my_list/s/105af7a0b339d03a548afa56d3ede596.m3u8
 #EXTINF:-1 group-title="Infantil",Cartoon Network
 https://list.iptvcat.net/my_list/s/9f8b40525ea965c6b65a7a6cade40c20.m3u8
 #EXTINF:-1 group-title="Infantil",Nick Jr
-https://list.iptvcat.net/my_list/s/105af7a0b339d03a548afa56d3ede596.m3u8
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 group-title="Infantil",Tooncast
 http://201.216.147.90:8729/play/a0dr
 #EXTINF:-1 group-title="General",Las estrellas
-https://list.iptvcat.net/my_list/s/dc0323b804679223761c3206b7eaa967.m3u8
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Novelas",tlnovelas
-https://list.iptvcat.net/my_list/s/5002d0c098a42db5c16b240a35eafac4.m3u8
+http://167.249.23.102:8000/play/a0g8/index.m3u8
 #EXTINF:-1 group-title="General",Telemundo
 https://list.iptvcat.net/my_list/s/51e8c0220e912b34435268829a743f71.m3u8
 #EXTINF:-1 group-title="General",Azteca Internacional
@@ -48,7 +48,7 @@ http://201.216.147.90:8729/play/a0mg
 #EXTINF:-1 group-title="General",Univisión
 https://list.iptvcat.net/my_list/s/ce151a8e1037b12c459767849c88ad2e.m3u8
 #EXTINF:-1 group-title="Novelas",RCN Novelas
-http://201.216.147.90:8729/play/a0d4
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 group-title="Documentales",Home & Healt
 http://201.216.147.90:8729/play/a0ck
 #EXTINF:-1 group-title="Películas",Warner
@@ -68,7 +68,7 @@ http://201.216.147.90:8729/play/a0m0
 #EXTINF:-1 group-title="Películas",Space
 http://201.216.147.90:8729/play/a0ow
 #EXTINF:-1 group-title="Novelas",TNT novelas
-https://list.iptvcat.net/my_list/s/bfd0fd1c98209f1164abff6fb58893ea.m3u8
+http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="General",Distrito Comedia
 https://list.iptvcat.net/my_list/s/53d536a070774dd5fb91d0ef73567fec.m3u8
 #EXTINF:-1 group-title="Películas",Multicinema
@@ -104,13 +104,9 @@ http://201.216.147.90:8729/play/a0m1
 #EXTINF:-1 group-title="Deportes",TUDN
 https://list.iptvcat.net/my_list/s/e7f468ab000a4e30b353491e4872498e.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
-http://201.216.147.90:8729/play/a0p0
+https://list.iptvcat.net/my_list/s/e565960d52b3fbc86966ebd85b38de67.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN2
-http://201.216.147.90:8729/play/a0p1
-#EXTINF:-1 group-title="Deportes",ESPN3
-http://201.216.147.90:8729/play/a0p2
-#EXTINF:-1 group-title="Deportes",Dsports
-https://streamtp99a.sbs/global1.php?stream=dsports
+https://list.iptvcat.net/my_list/s/bc692ea6d0098ac4a3b3dc30218ff06f.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Premium
 https://list.iptvcat.net/my_list/s/34e7582bf9f324b2a1a60f97451d4319.m3u8
 #EXTINF:-1 group-title="Deportes",Sky la liga
@@ -118,7 +114,9 @@ http://45.5.118.152:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Deportes",Sky sports 2
 https://list.iptvcat.net/my_list/s/6d87804bb0942a67f541029979cedfab.m3u8
 #EXTINF:-1 group-title="Deportes",TNT sports
-https://list.iptvcat.net/my_list/s/15fa8fb116016dc02915aebc40897d4a.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+#EXTINF:-1 group-title="Deportes",Dazn
+http://neoyjpw.top:8080/live/fernando/fernando/63367.m3u8
 #EXTINF:-1 group-title="Documentales",Animal Planet
 http://201.216.147.90:8729/play/a0mm
 #EXTINF:-1 group-title="Documentales",History
@@ -132,12 +130,14 @@ http://201.216.147.90:8729/play/a0ml
 #EXTINF:-1 group-title="Noticias",RT
 http://201.216.147.90:8729/play/a01y
 #EXTINF:-1 group-title="Noticias",CNN
-https://list.iptvcat.net/my_list/s/eb5f2e77afdb9fd13633606e9ffc08c3.m3u8
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Noticias",France 24
-https://list.iptvcat.net/my_list/s/a66de4843e5bcb8e12657d74b7b3f29d.m3u8
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="Inter",TVE
 http://201.216.147.90:8729/play/a0ot
 #EXTINF:-1 group-title="Música",Telehit
 https://list.iptvcat.net/my_list/s/8aed2806fb787828a55eae2683402894.m3u8
 #EXTINF:-1 group-title="Música",MTV
 https://list.iptvcat.net/my_list/s/ef5a755328be81cbe38e2816bb01405a.m3u8
+#EXTINF:-1 group-title="Nacional",Canal 7 (2)
+http://181.119.177.253:8000/play/a03n/index.m3u8
