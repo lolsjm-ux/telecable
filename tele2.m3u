@@ -114,7 +114,7 @@ http://201.216.147.90:8729/play/a0m1
 #EXTINF:-1 group-title="Deportes",TUDN
 http://181.119.177.253:8000/play/a0ds/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
-http://latinostream.xyz:8080/live/felixpenatv/L20260730/782300.ts
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782300.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN2
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/54414
 #EXTINF:-1 group-title="Deportes",ESPN Premium
@@ -132,7 +132,7 @@ http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/60284
 #EXTINF:-1 group-title="Deportes",M+ La liga
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/60238
 #EXTINF:-1 group-title="Deportes",Dazn La liga
-http://latinostream.xyz:8080/live/felixpenatv/L20260730/1013537.ts
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1013537.m3u8
 #EXTINF:-1 group-title="Deportes",bein sports
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 group-title="Deportes",TYC
@@ -152,7 +152,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Noticias",CNN
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Nacional",TN23
-http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034884.m3u8
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034888.m3u8
 #EXTINF:-1 group-title="Noticias",France 24
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="Noticias",DW
@@ -166,7 +166,7 @@ http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/24929
 #EXTINF:-1 group-title="Nacional",tvs
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 group-title="Nacional",Canal 7 hd
-http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034877.ts
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034877.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 3
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/54415
 #EXTINF:-1 group-title="Deportes",ESPN Extra
