@@ -1,25 +1,107 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deportes",tooncast
-https://regionales.saohgdassregions.com/playlist/32/tracks-v1a1/mono.m3u8?token=3a74365afcd649518731b23fe9dd8974f590f11e-280cf2bc126981449752cd0204576209-1794957375-1794935775
-#EXTINF:-1 group-title="Deportes",Discovery Kids
-https://regionales.saohgdassregions.com/playlist/32/tracks-v1a1/mono.m3u8?token=3a74365afcd649518731b23fe9dd8974f590f11e-280cf2bc126981449752cd0204576209-1794957375-1794935775
-#EXTINF:-1 group-title="Nacional",Canal 3
-https://ddycmnicl95kp.cloudfront.net/live/i8bocdjcqa5r/master.m3u8
-#EXTINF:-1 group-title="Nacional",Canal 7
-https://ddycmnicl95kp.cloudfront.net/live/hm8maie2jnn2/master.m3u8
-#EXTINF:-1 group-title="Nacional",TN23
-https://ddycmnicl95kp.cloudfront.net/live/by1ualyjwslr/master.m3u8
-#EXTINF:-1 group-title="Nacional",Guatevisión
-https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8?_=1794935149999&dnt=true&dual_render=1&player=69f948387c9694d4da443389&uid=DCwtvlSzH2N6kFrY4xL0iyj9IcEKRSa4&sid=mF6mLt1hIKdtN19kbfYfYiWUnxzwMin8&pid=0I06hxTHRjz8GQTHmrwWFCzNjjeK3GkF&an=lightning-player&at=web-app&av=v1.0.122&sc=0&ref=mdstrm.com&res=1366x768&ext_pb=0&adInsertionGoogleStreamId=6ace09c9-ac75-4887-a851-575c61ec653d%3AATL&CMCD=cid%3D%2269f8df22a762c9b1ab3eabca%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220I06hxTHRjz8GQTHmrwWFCzNjjeK3GkF%22%2Csu
-#EXTINF:-1 group-title="Nacional",TV Azteca
-https://channel1-tva.duin.dev/streaming/stream.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiR1QiLCJjb250ZW50SWQiOiI1NzkiLCJ1c2VySWQiOiJhbm9uMzE5NDUxODYzOTBiMGNlM2Y5NGRiMTNjMTJjZTBiYzhjN2IxMTIwNGVlIiwiaXAiOiIxOTAuMTA0LjEyNC4xMTEiLCJkZXZpY2VJZCI6IjBiMGNlM2Y5NGRiMTNjMTJjZTBiYzhjN2IxMTIwNGVlIiwianRpIjoiNjJjOTk3ZWYtOTU1Yy00OGNlLTg1ZTQtNDAwNmRhNDMxM2E0IiwiY2hhbm5lbCI6IlRWIENhbmFsIDEiLCJpYXQiOjE3OTQ5MzUyMTIsImV4cCI6MTc5NDk1NTAxMn0.BsrGmeJh2fxbYrXDYLHrPCgOg6BGgz6E3DK8UMum8TU
 #EXTINF:-1 group-title="Nacional",A+
-https://channel2-tva.duin.dev/streaming/0/stream.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiR1QiLCJjb250ZW50SWQiOiI1NzcxIiwidXNlcklkIjoiYW5vbjMxOTQ1MTg2MzkwYjBjZTNmOTRkYjEzYzEyY2UwYmM4YzdiMTEyMDRlZSIsImlwIjoiMTkwLjEwNC4xMjQuMTExIiwiZGV2aWNlSWQiOiIwYjBjZTNmOTRkYjEzYzEyY2UwYmM4YzdiMTEyMDRlZSIsImp0aSI6IjMxNDIwZWJlLWFkN2UtNDUzYS1iMGU4LWYxZGM0OTcxOTQwMiIsImNoYW5uZWwiOiJUViBDYW5hbCAyIiwiaWF0IjoxNzk0OTM1MjQzLCJleHAiOjE3OTQ5NTUwNDN9.2O72QSOsvOlzXNnCiTRkFSc5vWHG0V0ogx39wRdq_FI
-#EXTINF:-1 group-title="Nacional",Guatemala.com
-https://live-ak.vimeocdn.com/exp=1794938911~acl=%2Fe80c322f-2c67-4582-bdcf-90ef77c21275_fmp4%2F%2A~hmac=a1f71c863677be6bb95bcb4a70d03b293051fc9a01863f8977e97ba9dd6a30d0/e80c322f-2c67-4582-bdcf-90ef77c21275_fmp4/aac/256000/en/chunklist.m3u8?_HLS_skip=YES
-#EXTINF:-1 group-title="Deportes",Espn
-https://khala.futlivehd.com/global/espnar/index.m3u8?ip=190.104.124.111&token=3a35f10537d3c74860e62f38e8e76b640c4467ea-9f-1794980876-1794926876
-#EXTINF:-1 group-title="Deportes",ESPN 2
-https://deportes.ksdjugfssddeports.com/playlist/14/tracks-v1a1/mono.m3u8?token=9050baf34a53b3d1f16a2b607af3605980cc832f-26620faa53dfdff1178ba7fe771a8aa9-1794960059-1794938459
+https://guastream.com:3525/stream/play.m3u8
+#EXTINF:-1 group-title="Nacional",TVQ
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/source/index.m3u8
+#EXTINF:-1 group-title="Nacional",Canal 3
+https://guastream.com:3172/stream/play.m3u8
+#EXTINF:-1 group-title="Nacional",Guatevisión
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-gdai/69f8df22a762c9b1ab3eabca/linear/hls/pa/event/zaC-Xw1HSNyYf9MY-TuOAQ/stream/dc6dcdc0-84aa-4ced-ad35-3bd66f246fec:CHS/variant/519932ab8fb974b02c1ad946294b07a0/bandwidth/2635600.m3u8?aid=69f3a01bf740b9c0187c9be1&adInsertionGoogleStreamId=dc6dcdc0-84aa-4ced-ad35-3bd66f246fec%3ACHS&pid=oz4yxySt4M7kN9W6Qw8iiSStle2raTdU&sid=0f1evtMhFVBWZDtQ6JfaDDsqZUOufrkX&uid=bRSMFrQdOfzdWTq9e7BFw7qY5hjhlNZk&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1795028661544&ot=KVhD7_toHGvm4lJNztjmiA&proto=https&pz=us&access_token=fvQdOH76wFcDIrLrUqvhUchn7H6X9MLlt3QEqGGuFwzradkrRfSpSaBXMwmG44SAPkHYa2ARgOX
+#EXTINF:-1 group-title="Nacional",Canal Antigua
+https://5ca9af4645e15.streamlock.net/antigua/videoantigua/chunklist_w662410708.m3u8
+#EXTINF:-1 group-title="Nacional",FOX
+https://aegis-cloudfront.tubi.video/streams/db55104b-0a4b-4ef7-b787-f2dfb5c2ce34/variant/1280x720/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjaWQiOiJkYjU1MTA0Yi0wYTRiLTRlZjctYjc4Ny1mMmRmYjVjMmNlMzQiLCJleHAiOjE3OTUyMDE1NzEsImlzcyI6ImFlZ2lzIn0.e5m5faVnNpobcGlcYCLGPxITz8IX_7UhFuM5qNhKrMHLf_vNPAPpjkNVhwvemxQqoV1lB_TWxvZKPMmEEJLscQ&Expires=1795201572&Signature=KbFt7u9tCZS3Etk12Pv1Zm3AgORhankHX3B6+5wwssUSMY0jutpNnv3lruZ+UzoGiLMIGVqC6faV02tOX1AqbDLx5gNMaR4z2OC/8I3d/KT5iSqHgXZM+o0+nQWtsmkbwKm6S3dKOOAaa7oxrWK3Xm4P3nRfoVhqFk4lYLoWxBQn/duZ7ec97W1wOIp67fw58R9hGVSONZz9gstDeU1TE8/xWh1stMiaWqCBwuV3SbGyN11kcBG8NHCUp+oWm/nnnwYhCOW+RrrJ38zkrphUznq7wvgqlrR0s2IZZKQlob1vzaZAzDPl0ZJzoqsUxNY2Dw6vFXImmR4Owey8mpwR3A==&Key-Pair-Id=K4EI1QKCGKSTE
+#EXTINF:-1 group-title="Nacional",Televisiete
+https://guastream.com:3695/stream/play.m3u8
+#EXTINF:-1 group-title="Nacional",TVGT
+https://guastream.com:3905/stream/play.m3u8
+#EXTINF:-1 group-title="Nacional",TVS
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 group-title="Nacional",Las estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+#EXTINF:-1 group-title="Nacional",Canal 27
+https://live.canal27.tv:3633/live/canal27live.m3u8
+#EXTINF:-1 group-title="Nacional",Teleonce
+http://179.60.224.196:8000/play/a0dv/index.m3u8
+#EXTINF:-1 group-title="General",Univisión
+http://186.148.196.100:8000/play/a01p
+#EXTINF:-1 group-title="Nacional",Canal 13
+http://45.5.118.152:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="General",Telefe
+https://telefe.argtelemax.workers.dev/
+#EXTINF:-1 group-title="General",Caracol
+http://181.225.190.242:8000/play/a00p
+#EXTINF:-1 group-title="General",RCN +
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="General",TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
+#EXTINF:-1 group-title="General",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 group-title="General",Antena 3
+http://179.60.224.196:8000/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="Nacional",Sonora
+https://d2pwe8olhpvd2u.cloudfront.net/0/index.m3u8
+#EXTINF:-1 group-title="Nacional",Canal de gobierno
+https://stream.castr.com/6a6b6a5aa395248409704102/live_0be585b08c3611f1bf789b5cb219835e/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Nacional",Tn23
+https://guastream.com:3249/stream/play.m3u8
+#EXTINF:-1 group-title="Nacional",Nuevo mundo
+https://nuevomundo.gt/c29-hls/index.m3u8?version=controles-mobile-1
+#EXTINF:-1 group-title="Nacional",TVA
+https://live-sa.streann.tech/canalcatolico1/canalcatolico1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTQ5NTc4MzgsInJpZCI6IjU3ZmViNDU5MmNkYzBjY2UyNjVhMzkyOSIsImtleSI6ImtleTEiLCJjaWQiOiI2MmNjNzBjOWU0YjAxNzNlMGY0ZDcwOTMifQ.yqeWyWbOsEKolLUWwVq2g1mtfGh_gtZ7oKdxZnXDLRk
+#EXTINF:-1 group-title="General",El trece
+http://190.108.83.69:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="General",Canal 27
+https://ch1-c27.duin.dev/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Novelas",Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/f08fe717-00c0-4c6c-af30-dc2fd487177e/1.m3u8
+#EXTINF:-1 group-title="Novelas",Pasiones
+http://181.224.255.210:8001/play/a0s0/index.m3u8?hls
+#EXTINF:-1 group-title="Novelas",Corazon
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+#EXTINF:-1 group-title="Novelas",tlnovelas
+http://205.235.6.29:8000/play/a0wi/index.m3u8?hls
+#EXTINF:-1 group-title="Nacional",Azteca Guate
+https://guastream.com:3996/stream/play.m3u8
+#EXTINF:-1 group-title="Nacional",Azteca
+http://38.65.175.87:8000/play/a0cc/index.m3u8u?hls
+#EXTINF:-1 group-title="Noticias",RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1 group-title="Noticias",CNN
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Noticias",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Noticias",France 24
+https://www.youtube.com/live/zTv0hCakAhg?si=gogQ7X-fwVx7C71A
+#EXTINF:-1 group-title="Noticias",24H
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN
+https://deportes.ksdjugfssddeports.com/playlist/13/tracks-v1a1/mono.m3u8?token=f5224f1ea13787f2a6f5384134ccce9dd45d8768-a0e4e53b4450b8bc3ef24da327bc0091-1794969302-1794947702
+#EXTINF:-1 group-title="Deportes",ESPN2
+https://deportes.ksdjugfssddeports.com/playlist/14/tracks-v1a1/mono.m3u8?token=d53bdc4979716cd048c631922a50a783bdc225fc-fb8f2a97a3e65030be6b626d641171b6-1794969345-1794947745
 #EXTINF:-1 group-title="Deportes",ESPN 3
-https://deportes.ksdjugfssddeports.com/playlist/15/tracks-a1/mono.m3u8?token=21c15c26d86b0f1f2d9ef70bdef4352280605b07-ec1feb7b39ff044d9ce86f058b51a5e5-1794960114-1794938514
+https://deportes.ksdjugfssddeports.com/playlist/15/tracks-a1/mono.m3u8?token=bfa2a03e659fe6f0cde25a920e37b53957f6e7ad-ae3662e7e9b1c42bf8b9b522588553ec-1794969371-1794947771
+#EXTINF:-1 group-title="Deportes",ESPN 4
+https://deportes.ksdjugfssddeports.com/playlist/23/tracks-v1a1/mono.m3u8?token=c8609bfea393f9d222dacb70b5497f2fa7d23c83-bab07b9751c5a56b11d0a5fa9219cdf0-1794969400-1794947800
+#EXTINF:-1 group-title="Deportes",ESPN 5
+https://deportes.ksdjugfssddeports.com/playlist/24/tracks-v1a1/mono.m3u8?token=8f584adca849225e0caa13b863ab5228591f8a75-d0331b4aa11db48c0123f54c629e3089-1794969427-1794947827
+#EXTINF:-1 group-title="Deportes",ESPN 6
+https://deportes.ksdjugfssddeports.com/playlist/25/tracks-v1a1/mono.m3u8?token=3cf4f61c98ff7fd4d3360f8dd51d4b57e0c10ff8-3a7a5e0d205479543a3c3e35d1bd68cc-1794969462-1794947862
+#EXTINF:-1 group-title="Deportes",ESPN 7
+https://deportes.ksdjugfssddeports.com/playlist/26/tracks-v1a1/mono.m3u8?token=cf7018360e95c5cf80e59c10f7022c23884a129a-c1ea92ed7a75b841ef0e4900c0b0240f-1794969483-1794947883
+#EXTINF:-1 group-title="Deportes",DSPORTS
+https://deportes.ksdjugfssddeports.com/playlist/3/tracks-v1a1/mono.m3u8?token=4b11d447fef3992c511dbfb5961eae9d707e7cbb-5f45df2c0e8ba4a83087fe53f87a8cf6-1794969531-1794947931
+#EXTINF:-1 group-title="Deportes",DSPORTS 2
+https://deportes.ksdjugfssddeports.com/playlist/7/tracks-v1a1/mono.m3u8?token=e9e5f1f858cbb7857c8c4a1bd78882ecb60aead7-2753626318daf1c783ed3b7c6966a84b-1794969576-1794947976
+#EXTINF:-1 group-title="Deportes",DSPORTS +
+https://deportes.ksdjugfssddeports.com/playlist/11/tracks-v1a1/mono.m3u8?token=34f5f2c15838ea557a2944fc7585dcc16123772d-deaee6d189a6fcf3e0bb20a7c5526904-1794969609-1794948009
+#EXTINF:-1 group-title="Deportes",TUDN
+https://deportes.ksdjugfssddeports.com/playlist/1/tracks-v1a1/mono.m3u8?token=f2a7cd1eac79a436423a1011eca2294ddc4abf02-433dd71653a43706bcdc9d1a5cd2db15-1794969801-1794948201
+#EXTINF:-1 group-title="Deportes",Sky la liga
+http://45.5.118.152:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="Infantil",Cartoon network
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cartoon_hls/track_0_1800/playlist.m3u8
+#EXTINF:-1 group-title="Infantil",Cartoonito
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cartoon_hls/playlist.m3u8
+#EXTINF:-1 group-title="Infantil",Discovery kids
+https://regionales.saohgdassregions.com/playlist/32/tracks-v1a1/mono.m3u8?token=3a74365afcd649518731b23fe9dd8974f590f11e-280cf2bc126981449752cd0204576209-1794957375-1794935775 #EXTINF:-1 group-title="Nacional",Canal 3 https://ddycmnicl95kp.cloudfront.net/live/i8bocdjcqa5r/master.m3u8
