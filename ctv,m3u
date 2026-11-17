@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="Infantil",Disney Jr
-http://latinostream.xyz:8080/live/felixpenatv/L20260730/769073.ts
-#EXTINF:-1 group-title="Infantil",Discovery Kids
-http://latinostream.xyz:8080/live/felixpenatv/L20260730/769075.ts
+#EXTINF:-1 group-title="Nacional",Canal 7
+https://ddycmnicl95kp.cloudfront.net/live/hm8maie2jnn2/master.m3u8
 #EXTINF:-1 group-title="Nacional",Canal 3
-http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034876.ts
-#EXTINF:-1 group-title="Infantil",Nick Jr
-http://latinostream.xyz:8080/live/felixpenatv/L20260730/769082.ts
+https://ddycmnicl95kp.cloudfront.net/live/i8bocdjcqa5r/master.m3u8
+#EXTINF:-1 group-title="Nacional",TN23
+https://ddycmnicl95kp.cloudfront.net/live/by1ualyjwslr/master.m3u8
+#EXTINF:-1 group-title="Nacional",Guatevisión
+https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8?_=1794935149999&dnt=true&dual_render=1&player=69f948387c9694d4da443389&uid=DCwtvlSzH2N6kFrY4xL0iyj9IcEKRSa4&sid=mF6mLt1hIKdtN19kbfYfYiWUnxzwMin8&pid=0I06hxTHRjz8GQTHmrwWFCzNjjeK3GkF&an=lightning-player&at=web-app&av=v1.0.122&sc=0&ref=mdstrm.com&res=1366x768&ext_pb=0&adInsertionGoogleStreamId=6ace09c9-ac75-4887-a851-575c61ec653d%3AATL&CMCD=cid%3D%2269f8df22a762c9b1ab3eabca%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220I06hxTHRjz8GQTHmrwWFCzNjjeK3GkF%22%2Csu
+#EXTINF:-1 group-title="Nacional",TV Azteca
+https://channel1-tva.duin.dev/streaming/stream.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiR1QiLCJjb250ZW50SWQiOiI1NzkiLCJ1c2VySWQiOiJhbm9uMzE5NDUxODYzOTBiMGNlM2Y5NGRiMTNjMTJjZTBiYzhjN2IxMTIwNGVlIiwiaXAiOiIxOTAuMTA0LjEyNC4xMTEiLCJkZXZpY2VJZCI6IjBiMGNlM2Y5NGRiMTNjMTJjZTBiYzhjN2IxMTIwNGVlIiwianRpIjoiNjJjOTk3ZWYtOTU1Yy00OGNlLTg1ZTQtNDAwNmRhNDMxM2E0IiwiY2hhbm5lbCI6IlRWIENhbmFsIDEiLCJpYXQiOjE3OTQ5MzUyMTIsImV4cCI6MTc5NDk1NTAxMn0.BsrGmeJh2fxbYrXDYLHrPCgOg6BGgz6E3DK8UMum8TU
+#EXTINF:-1 group-title="Nacional",A+
+https://channel2-tva.duin.dev/streaming/0/stream.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiR1QiLCJjb250ZW50SWQiOiI1NzcxIiwidXNlcklkIjoiYW5vbjMxOTQ1MTg2MzkwYjBjZTNmOTRkYjEzYzEyY2UwYmM4YzdiMTEyMDRlZSIsImlwIjoiMTkwLjEwNC4xMjQuMTExIiwiZGV2aWNlSWQiOiIwYjBjZTNmOTRkYjEzYzEyY2UwYmM4YzdiMTEyMDRlZSIsImp0aSI6IjMxNDIwZWJlLWFkN2UtNDUzYS1iMGU4LWYxZGM0OTcxOTQwMiIsImNoYW5uZWwiOiJUViBDYW5hbCAyIiwiaWF0IjoxNzk0OTM1MjQzLCJleHAiOjE3OTQ5NTUwNDN9.2O72QSOsvOlzXNnCiTRkFSc5vWHG0V0ogx39wRdq_FI
+#EXTINF:-1 group-title="Nacional",Guatemala.com
+https://live-ak.vimeocdn.com/exp=1794938911~acl=%2Fe80c322f-2c67-4582-bdcf-90ef77c21275_fmp4%2F%2A~hmac=a1f71c863677be6bb95bcb4a70d03b293051fc9a01863f8977e97ba9dd6a30d0/e80c322f-2c67-4582-bdcf-90ef77c21275_fmp4/aac/256000/en/chunklist.m3u8?_HLS_skip=YES
+#EXTINF:-1 group-title="Deportes",Espn
+https://khala.futlivehd.com/global/espnar/index.m3u8?ip=190.104.124.111&token=3a35f10537d3c74860e62f38e8e76b640c4467ea-9f-1794980876-1794926876
