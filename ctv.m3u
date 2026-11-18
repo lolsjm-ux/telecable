@@ -41,18 +41,18 @@ http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/12332
 https://d2pwe8olhpvd2u.cloudfront.net/0/index.m3u8
 #EXTINF:-1 group-title="Nacional",Canal de gobierno
 https://stream.castr.com/6a6b6a5aa395248409704102/live_0be585b08c3611f1bf789b5cb219835e/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Nacional",Tn23
-https://guastream.com:3249/stream/play.m3u8
 #EXTINF:-1 group-title="Nacional",Nuevo mundo
 https://nuevomundo.gt/c29-hls/index.m3u8?version=controles-mobile-1
+#EXTINF:-1 group-title="Nacional",Tn23
+https://guastream.com:3249/stream/play.m3u8
 #EXTINF:-1 group-title="Nacional",TVA
 https://live-sa.streann.tech/canalcatolico1/canalcatolico1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTQ5NTc4MzgsInJpZCI6IjU3ZmViNDU5MmNkYzBjY2UyNjVhMzkyOSIsImtleSI6ImtleTEiLCJjaWQiOiI2MmNjNzBjOWU0YjAxNzNlMGY0ZDcwOTMifQ.yqeWyWbOsEKolLUWwVq2g1mtfGh_gtZ7oKdxZnXDLRk
-#EXTINF:-1 group-title="General",Universo
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/35367
-#EXTINF:-1 group-title="General",Canal 27
-https://ch1-c27.duin.dev/hls/0/stream.m3u8
+#EXTINF:-1 group-title="General",Telemundo
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/68068
 #EXTINF:-1 group-title="Novelas",Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/f08fe717-00c0-4c6c-af30-dc2fd487177e/1.m3u8
+#EXTINF:-1 group-title="General",Canal 27
+https://ch1-c27.duin.dev/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Novelas",Pasiones
 http://181.224.255.210:8001/play/a0s0/index.m3u8?hls
 #EXTINF:-1 group-title="Novelas",Corazon
@@ -147,8 +147,8 @@ http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/204
 http://23.153.217.158:8080/34wazu564b
 #EXTINF:-1 group-title="Películas",studio
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/218
-#EXTINF:-1 group-title="Películas",Comedy central
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/242
+#EXTINF:-1 group-title="Películas",Distrito comedia
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/634
 #EXTINF:-1 group-title="Películas",AMC
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/104
 #EXTINF:-1 group-title="Películas",Syfy
@@ -169,3 +169,53 @@ http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/181
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/110
 #EXTINF:-1 group-title="Películas",TCM
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/229
+#EXTINF:-1 group-title="Documentales",Discovery
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/406
+#EXTINF:-1 group-title="Documentales",Natgeo
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/54483
+#EXTINF:-1 group-title="Documentales",Animal Planet
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/402
+#EXTINF:-1 group-title="Documentales",History
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/431
+#EXTINF:-1 group-title="Documentales",Historia
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/12344
+#EXTINF:-1 group-title="Documentales",H2
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/430
+#EXTINF:-1 group-title="Documentales",ID
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/437
+#EXTINF:-1 group-title="Documentales",DISCOVERY SCIENCE
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/414
+#EXTINF:-1 group-title="Documentales",DISCOVERY THEATER
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/418
+#EXTINF:-1 group-title="Documentales",DISCOVERY WORLD
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/423
+#EXTINF:-1 group-title="Documentales",DISCOVERY TURBO
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/420
+#EXTINF:-1 group-title="Documentales",DISCOVERY H&H
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/410
+#EXTINF:-1 group-title="Documentales",TLC
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/447
+#EXTINF:-1 group-title="Documentales",E!
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/627
+#EXTINF:-1 group-title="Documentales",HOLA
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/630
+#EXTINF:-1 group-title="Películas",Film & arts
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/244
+#EXTINF:-1 group-title="Música",MTV
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/24929
+#EXTINF:-1 group-title="Música",HTV
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/54503
+#EXTINF:-1 group-title="Música",telehit
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/59412
+#EXTINF:-1 group-title="Música",MTV Classic
+https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 group-title="Deportes",M+ la liga
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/12306
+#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/12404
+#EXTINF:-1 group-title="Deportes",Dazn
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/12348
+#EXTINF:-1 group-title="Deportes",Dazn la liga
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/60261
+#EXTINF:-1 group-title="Deportes",Dazn 2
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/60357
