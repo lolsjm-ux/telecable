@@ -148,7 +148,7 @@ http://23.153.217.158:8080/34wazu564b
 #EXTINF:-1 group-title="Películas",studio
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/218
 #EXTINF:-1 group-title="Películas",Distrito comedia
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/634
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/59454
 #EXTINF:-1 group-title="Películas",AMC
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/104
 #EXTINF:-1 group-title="Películas",Syfy
@@ -212,10 +212,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u
 #EXTINF:-1 group-title="Deportes",M+ la liga
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/12306
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/12404
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/60279
 #EXTINF:-1 group-title="Deportes",Dazn
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/12348
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/60354
 #EXTINF:-1 group-title="Deportes",Dazn la liga
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/60261
 #EXTINF:-1 group-title="Deportes",Dazn 2
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/60357
+#EXTINF:-1 group-title="Novelas",BBC Drama
+https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3877&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=83c97506-2162-4af4-8db0-745e5c77533c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=988
