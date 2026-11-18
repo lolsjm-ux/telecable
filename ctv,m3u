@@ -6,7 +6,7 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 #EXTINF:-1 group-title="Nacional",Canal 3
 https://guastream.com:3172/stream/play.m3u8
 #EXTINF:-1 group-title="Nacional",Guatevisión
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-gdai/69f8df22a762c9b1ab3eabca/linear/hls/pa/event/zaC-Xw1HSNyYf9MY-TuOAQ/stream/dc6dcdc0-84aa-4ced-ad35-3bd66f246fec:CHS/variant/519932ab8fb974b02c1ad946294b07a0/bandwidth/2635600.m3u8?aid=69f3a01bf740b9c0187c9be1&adInsertionGoogleStreamId=dc6dcdc0-84aa-4ced-ad35-3bd66f246fec%3ACHS&pid=oz4yxySt4M7kN9W6Qw8iiSStle2raTdU&sid=0f1evtMhFVBWZDtQ6JfaDDsqZUOufrkX&uid=bRSMFrQdOfzdWTq9e7BFw7qY5hjhlNZk&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1795028661544&ot=KVhD7_toHGvm4lJNztjmiA&proto=https&pz=us&access_token=fvQdOH76wFcDIrLrUqvhUchn7H6X9MLlt3QEqGGuFwzradkrRfSpSaBXMwmG44SAPkHYa2ARgOX
+https://us-b4-p-e-jn18.cdn.mdstrm.com/live-stream-gdai/69f8df22a762c9b1ab3eabca/linear/hls/pa/event/zaC-Xw1HSNyYf9MY-TuOAQ/stream/82b59cd0-dff6-4bbb-9986-b1c0788a07b5:CHS/variant/519932ab8fb974b02c1ad946294b07a0/bandwidth/2635600.m3u8?aid=69f3a01bf740b9c0187c9be1&dnt=true&dual_render=1&uid=bRSMFrQdOfzdWTq9e7BFw7qY5hjhlNZk&sid=t0JVA2KsR9fMWOm2yLf6q4z1uvwq6rTC&pid=7YRVdgdvy5B5qUInnawX1rks3Vbiem9F&ref=mdstrm.com&ext_pb=0&CMCD=cid%3D%2269f8df22a762c9b1ab3eabca%22%2Cmtp%3D32900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%227YRVdgdvy5B5qUInnawX1rks3Vbiem9F%22&adInsertionGoogleStreamId=82b59cd0-dff6-4bbb-9986-b1c0788a07b5%3ACHS&es=us-b4-p-e-jn18.cdn.mdstrm.com&ote=1795109871019&ot=CrHKGtbRMCbUAHcfaU3TqA&proto=https&pz=us&access_token=o6e2lOZ3jCMMi8cB05mCguAJNHsnOm2w3Xh43ZoL0XnjInsO6X5yaiJZ19TCql8kz1yxToY96dn
 #EXTINF:-1 group-title="Nacional",Canal Antigua
 https://5ca9af4645e15.streamlock.net/antigua/videoantigua/chunklist_w662410708.m3u8
 #EXTINF:-1 group-title="Nacional",FOX
@@ -22,13 +22,13 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 #EXTINF:-1 group-title="Nacional",Teleonce
 http://179.60.224.196:8000/play/a0dv/index.m3u8
 #EXTINF:-1 group-title="General",Univisión
-https://a2lja3m.fubo18.com/univision/mono.m3u8?token=421edc5c1bdf7dba4a9a65e1df8d29612fd7bf80-7c-1794974000-1794956000
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast-audio_eng=128000-video=4000000.m3u8
 #EXTINF:-1 group-title="Nacional",Canal 13
 http://45.5.118.152:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="General",Telefe
-https://telefe.argtelemax.workers.dev/
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/53225
 #EXTINF:-1 group-title="General",Caracol
-https://is1.tdtcloud.xyz/hls/CarHD1ok/index.m3u8?token=v-gCq5G8SRVWz3VK4dADKQ&expires=1794971400
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/331
 #EXTINF:-1 group-title="General",RCN +
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",TVE
@@ -36,7 +36,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 #EXTINF:-1 group-title="General",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 group-title="General",Antena 3
-http://179.60.224.196:8000/play/a0f2/index.m3u8
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/12332
 #EXTINF:-1 group-title="Nacional",Sonora
 https://d2pwe8olhpvd2u.cloudfront.net/0/index.m3u8
 #EXTINF:-1 group-title="Nacional",Canal de gobierno
@@ -48,7 +48,7 @@ https://nuevomundo.gt/c29-hls/index.m3u8?version=controles-mobile-1
 #EXTINF:-1 group-title="Nacional",TVA
 https://live-sa.streann.tech/canalcatolico1/canalcatolico1/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3OTQ5NTc4MzgsInJpZCI6IjU3ZmViNDU5MmNkYzBjY2UyNjVhMzkyOSIsImtleSI6ImtleTEiLCJjaWQiOiI2MmNjNzBjOWU0YjAxNzNlMGY0ZDcwOTMifQ.yqeWyWbOsEKolLUWwVq2g1mtfGh_gtZ7oKdxZnXDLRk
 #EXTINF:-1 group-title="General",Universo
-https://93.domhsd.com/universo/mono.m3u8?token=4ab4a171e7689759ec61e912c85758e0647cfbae-fc-1794974378-1794956378
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/35367
 #EXTINF:-1 group-title="General",Canal 27
 https://ch1-c27.duin.dev/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Novelas",Todo Novelas
@@ -62,7 +62,7 @@ http://205.235.6.29:8000/play/a0wi/index.m3u8?hls
 #EXTINF:-1 group-title="Nacional",Azteca Guate
 https://guastream.com:3996/stream/play.m3u8
 #EXTINF:-1 group-title="Nacional",Azteca
-http://38.65.175.87:8000/play/a0cc/index.m3u8u?hls
+https://azt-mun.otteravision.com/azt/mun/mun_720p_high.m3u8
 #EXTINF:-1 group-title="Noticias",RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 group-title="Noticias",CNN
@@ -70,13 +70,13 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist108
 #EXTINF:-1 group-title="Noticias",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Noticias",France 24
-https://www.youtube.com/live/zTv0hCakAhg?si=gogQ7X-fwVx7C71A
+https://a-cdn.klowdtv.com/live2/france24sp_720p/chunks.m3u8
 #EXTINF:-1 group-title="Noticias",24H
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
-https://deportes.ksdjugfssddeports.com/playlist/13/tracks-v1a1/mono.m3u8?token=f5224f1ea13787f2a6f5384134ccce9dd45d8768-a0e4e53b4450b8bc3ef24da327bc0091-1794969302-1794947702
+http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/54413
 #EXTINF:-1 group-title="Deportes",ESPN2
-https://deportes.ksdjugfssddeports.com/playlist/14/tracks-v1a1/mono.m3u8?token=d53bdc4979716cd048c631922a50a783bdc225fc-fb8f2a97a3e65030be6b626d641171b6-1794969345-1794947745
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782295.ts
 #EXTINF:-1 group-title="Deportes",ESPN 3
 https://93.domhsd.com/espn3/mono.m3u8?token=e8b5c4d97e849a15ade67357f74aa34786ddf68e-bc-1794974195-1794956195
 #EXTINF:-1 group-title="Deportes",ESPN 4
@@ -98,7 +98,7 @@ https://deportes.ksdjugfssddeports.com/playlist/1/tracks-v1a1/mono.m3u8?token=f2
 #EXTINF:-1 group-title="Deportes",Sky la liga
 http://45.5.118.152:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Deportes",TNT sport
-https://khala.futlivehd.com/tntsports/tracks-v1a1/mono.m3u8?ip=190.104.124.111&token=feb2f8602e4b4bfc67f7813ec4795542f3feca3e-1b-1795002380-1794948380
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 group-title="Deportes",TYC
 https://93.domhsd.com/tntsports/mono.m3u8?token=d3ef72feb56db1c1e312da8f89e15d0cabfe1513-b4-1794974459-1794956459
 #EXTINF:-1 group-title="Infantil",Cartoon network
