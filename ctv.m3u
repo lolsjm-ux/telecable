@@ -6,7 +6,7 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 #EXTINF:-1 group-title="Nacional",Canal 3
 https://guastream.com:3172/stream/play.m3u8
 #EXTINF:-1 group-title="Nacional",Guatevisión
-https://us-b4-p-e-jn18.cdn.mdstrm.com/live-stream-gdai/69f8df22a762c9b1ab3eabca/linear/hls/pa/event/zaC-Xw1HSNyYf9MY-TuOAQ/stream/82b59cd0-dff6-4bbb-9986-b1c0788a07b5:CHS/variant/519932ab8fb974b02c1ad946294b07a0/bandwidth/2635600.m3u8?aid=69f3a01bf740b9c0187c9be1&dnt=true&dual_render=1&uid=bRSMFrQdOfzdWTq9e7BFw7qY5hjhlNZk&sid=t0JVA2KsR9fMWOm2yLf6q4z1uvwq6rTC&pid=7YRVdgdvy5B5qUInnawX1rks3Vbiem9F&ref=mdstrm.com&ext_pb=0&CMCD=cid%3D%2269f8df22a762c9b1ab3eabca%22%2Cmtp%3D32900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%227YRVdgdvy5B5qUInnawX1rks3Vbiem9F%22&adInsertionGoogleStreamId=82b59cd0-dff6-4bbb-9986-b1c0788a07b5%3ACHS&es=us-b4-p-e-jn18.cdn.mdstrm.com&ote=1795109871019&ot=CrHKGtbRMCbUAHcfaU3TqA&proto=https&pz=us&access_token=o6e2lOZ3jCMMi8cB05mCguAJNHsnOm2w3Xh43ZoL0XnjInsO6X5yaiJZ19TCql8kz1yxToY96dn
+http://redworld.pro:8880/live/Israel24/28ScypQbJ6pd/533384.m3u8
 #EXTINF:-1 group-title="Nacional",Canal Antigua
 https://5ca9af4645e15.streamlock.net/antigua/videoantigua/chunklist_w662410708.m3u8
 #EXTINF:-1 group-title="Nacional",FOX
@@ -24,11 +24,11 @@ http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/69409
 #EXTINF:-1 group-title="General",Univisión
 https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast-audio_eng=128000-video=4000000.m3u8
 #EXTINF:-1 group-title="Nacional",Canal 13
-http://45.5.118.152:8000/play/a02s/index.m3u8
+http://redworld.pro:8880/live/Israel24/28ScypQbJ6pd/533385.m3u8
 #EXTINF:-1 group-title="General",Telefe
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/53225
+https://dalive.site:443/Demoluisfuentealba01/94yzwDN2Lv6I9TG3vUX/272042
 #EXTINF:-1 group-title="General",Caracol
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/331
+https://dalive.site:443/Demoluisfuentealba01/94yzwDN2Lv6I9TG3vUX/21156
 #EXTINF:-1 group-title="General",RCN +
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",TVE
@@ -124,51 +124,51 @@ http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/24943
 #EXTINF:-1 group-title="Infantil",Clan
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/12419
 #EXTINF:-1 group-title="Películas",Star channel
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/160
+http://38.190.100.202:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Películas",Warner
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/236
+http://38.190.100.202:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Películas",Sony
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/199
+http://38.190.100.202:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="Películas",Universal
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/232
+http://38.190.100.202:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Películas",AXN
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/108
+http://38.190.100.202:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="Películas",TNT
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/166
+http://38.190.100.202:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Películas",TNT series
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/171
-#EXTINF:-1 group-title="Películas",TNT novelas
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/226
+http://38.190.100.202:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Novelas",TNT novelas
+http://38.190.100.202:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Películas",FX
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/54444
+http://38.190.100.202:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="Películas",Space
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/204
+http://38.190.100.202:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="Películas",Cinecanal
-http://23.153.217.158:8080/34wazu564b
+http://38.190.100.202:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="Películas",studio
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/218
+http://38.190.100.202:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="Películas",Distrito comedia
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/59454
 #EXTINF:-1 group-title="Películas",AMC
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/104
+http://38.190.100.202:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="Películas",Syfy
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/222
 #EXTINF:-1 group-title="Películas",A&E
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/100
+http://38.190.100.202:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Películas",Lifetime
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/606
+http://38.190.100.202:8000/play/a09i/index.m3u8
 #EXTINF:-1 group-title="Películas",cinemax
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/118
+http://38.190.100.202:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="Películas",Golden
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/65216
+http://38.190.100.202:8000/play/a0b2/index.m3u8
 #EXTINF:-1 group-title="Películas",Edge
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/24825
+http://38.190.100.202:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Películas",De pelicula
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/181
+http://38.190.100.202:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Películas",Cine Latino
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/110
+http://38.190.100.202:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="Películas",TCM
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/229
+http://38.190.100.202:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="Documentales",Discovery
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/406
 #EXTINF:-1 group-title="Documentales",Natgeo
@@ -200,23 +200,21 @@ http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/627
 #EXTINF:-1 group-title="Documentales",HOLA
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/630
 #EXTINF:-1 group-title="Películas",Film & arts
-http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/244
+http://38.190.100.202:8000/play/a09j/index.m3u8
 #EXTINF:-1 group-title="Música",MTV
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/24929
 #EXTINF:-1 group-title="Música",HTV
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/54503
 #EXTINF:-1 group-title="Música",telehit
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/59412
-#EXTINF:-1 group-title="Música",MTV Classic
-https://dalive.site:443/Demoluisfuentealba01/94yzwDN2Lv6I9TG3vUX/491122
 #EXTINF:-1 group-title="Deportes",M+ la liga
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/60235
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
-https://dalive.site:443/Demoluisfuentealba01/94yzwDN2Lv6I9TG3vUX/333502
+http://31.43.191.125:8080/VIP016801731572621260/53ba9e59e315/264
 #EXTINF:-1 group-title="Deportes",Dazn
-https://dalive.site:443/Demoluisfuentealba01/94yzwDN2Lv6I9TG3vUX/154585
+http://31.43.191.125:8080/VIP016801731572621260/53ba9e59e315/128935
 #EXTINF:-1 group-title="Deportes",Dazn la liga
-https://dalive.site:443/Demoluisfuentealba01/94yzwDN2Lv6I9TG3vUX/154584
+http://31.43.191.125:8080/VIP016801731572621260/53ba9e59e315/243
 #EXTINF:-1 group-title="Novelas",BBC Drama
 https://dalive.site:443/Demoluisfuentealba01/94yzwDN2Lv6I9TG3vUX/490919
 #EXTINF:-1 group-title="General",Telemundo este
