@@ -108,7 +108,7 @@ http://elpapanatas.space:8080/12meses72823625/12meses72823625/917
 #EXTINF:-1 group-title="Infantil",Disney Jr
 http://elpapanatas.space:8080/12meses72823625/12meses72823625/921
 #EXTINF:-1 group-title="Infantil",Nickelodeon
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/910
+http://38.190.100.202:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Infantil",Nick JR
 http://elpapanatas.space:8080/12meses72823625/12meses72823625/907
 #EXTINF:-1 group-title="Infantil",Dreamworks
@@ -165,6 +165,8 @@ http://38.190.100.202:8000/play/a014/index.m3u8
 http://38.190.100.202:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="Películas",TCM
 http://38.190.100.202:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Películas",Comedy central
+http://38.190.100.202:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Documentales",Discovery
 http://38.190.100.202:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="Documentales",Natgeo
@@ -191,12 +193,14 @@ http://38.190.100.202:8000/play/a02i/index.m3u8
 http://38.190.100.202:8000/play/a06k/index.m3u8
 #EXTINF:-1 group-title="Documentales",TLC
 http://38.190.100.202:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="Documentales",E!
-http://38.190.100.202:8000/play/a095/index.m3u8
-#EXTINF:-1 group-title="Documentales",HOLA
-http://38.190.100.202:8000/play/a0al/index.m3u8
 #EXTINF:-1 group-title="Películas",Film & arts
 http://38.190.100.202:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="Documentales",E!
+http://38.190.100.202:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="Películas",Adult swim
+http://38.190.100.202:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Documentales",HOLA
+http://38.190.100.202:8000/play/a0al/index.m3u8
 #EXTINF:-1 group-title="Música",MTV
 http://23.153.217.158:8080/34wazu564bemu89w/72maxe529weda74w/24929
 #EXTINF:-1 group-title="Música",HTV
